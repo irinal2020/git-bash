@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+BRANCH<<<<<<< HEAD
 Test file 123 456 78
 Testing writting
 =======
