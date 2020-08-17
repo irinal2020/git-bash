@@ -1,6 +1,4 @@
-BRANCH<<<<<<< HEAD
-Test file 123 456 78
-Testing writting
-=======
-Test file
->>>>>>> parent of b9fa832... Add one line in text.txt
+Hello Git 123 Branch
+Add new line
+12344
+mbhgvgvg
