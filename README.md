@@ -1,3 +1,2 @@
 # git-bash
-file
-new information
+empty file
